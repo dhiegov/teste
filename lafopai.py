@@ -1,7 +1,1 @@
-
-
-print(life of pi)
-
-print(o famoso, láfopai)
-'
-
+print("life of pi\no famoso, láfopai")

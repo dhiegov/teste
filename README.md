@@ -1,2 +1,1 @@
-Aprendendo como se usa o git
-teste
+Aprendendo como se usa o git.
